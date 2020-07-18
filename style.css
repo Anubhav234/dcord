@@ -1,0 +1,62 @@
+body{
+    background-color: aqua;
+}
+.logo{
+    font-family: 'Poppins', sans-serif;
+    align-content: center;
+    justify-content: center;
+text-align: center;
+}   
+.container{
+    background-color:white;
+   
+    
+    max-width: 955px;
+    margin: auto;
+    height:60vh;
+    border-radius: 3px;
+    overflow-y: auto;
+    border: black;
+    padding: 20px;
+}
+.btn{
+    margin: auto;
+    align-items: center;
+    border-radius: 3px;
+}
+.ip{
+    border-radius: 3px;
+}
+.message{
+    background-color: gray;
+    width: 24%;
+    padding: 10px;
+   margin: 17px 3px;
+    border-radius: 3px;
+
+}
+.left{
+    
+float:right;
+clear: both;
+
+}
+.right{
+    float: left;
+    clear: both; 
+
+}
+#send-container{
+   text-align: center;
+   
+}
+#messageinp{
+    width: 59%;
+    border-radius: 6px;
+    height: 34px;
+}
+.btn{
+    cursor: pointer;
+    border-radius: 6px;
+    height: 34px;
+}
